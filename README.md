@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diannnnnnnnnnnnnnn
 - 👀 I’m interested in the Multi-domain Physical Modeling
 - 🌱 I’m currently learning Modelica
-- 💞️ I’m looking to collaborate on MOdelica Demo Building
+- 💞️ I’m looking to collaborate on Modelica Demo Building
 - 📫 How to reach me guodian.official@gmail.com
 
 <!---
